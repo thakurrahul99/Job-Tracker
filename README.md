@@ -49,7 +49,7 @@ A full-stack MERN application to track job applications, interviews, and offers 
 <!-- Add screenshots here — see instructions below -->
 | Login | Dashboard |
 |---|---|
-| ![Login](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) |
+| ![Login](Screenshot/login.png) | ![Dashboard](Screenshot/dashboard.png) |
 
 ---
 
